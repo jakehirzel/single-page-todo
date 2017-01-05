@@ -1,0 +1,26 @@
+{
+  "name": "single-page-todo",
+  "version": "1.0.0",
+  "description": "A single-page-todo app on the MEAN stack.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakehirzel/single-page-todo.git"
+  },
+  "author": "Jake Hirzel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakehirzel/single-page-todo/issues"
+  },
+  "homepage": "https://github.com/jakehirzel/single-page-todo#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.6",
+    "morgan": "^1.7.0"
+  }
+}
